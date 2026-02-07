@@ -1,4 +1,3 @@
-# baileys-Toolkit
 
 <p align="center">
   <img src="https://files.catbox.moe/42oa9z.jpg" width="100%" alt="Baileys Toolkit Banner"/>
